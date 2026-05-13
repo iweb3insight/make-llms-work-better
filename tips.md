@@ -9,11 +9,13 @@ Tell the LLM:
 Are you 100% confident in this strategy? If not, identify all possible vulnerabilities, provide fixes, and repeat this cycle until you are truly 100% certain on a factual level.
 ```
 
-tips2
+**Tip-002**
 
-"If you're unhappy with Claude's responses or have run out of quota, give the following prompt a try."
+You: If you're unhappy with Claude's responses or have run out of quota, give the following prompt a try.
 
-"Based on our current conversation, please create a summary so that GPT can clearly understand."
-
+Tell the LLM: 
+```text
+Based on our current conversation, please create a summary so that GPT can clearly understand.
+```
 
 
