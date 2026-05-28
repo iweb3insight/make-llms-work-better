@@ -133,3 +133,24 @@ Ensure no stack traces are leaked and all user inputs are properly sanitized.
 
 ```
 
+**Tip-012**
+
+Adopt a strict "Testing Gate" flow to enforce quality control and prevent regression before feature implementation.
+
+Tell the LLM:
+
+```
+Are you 100% confident in this phase implementation? Before writing any functional code, add or update tests that cover the phase capability. Run these phase tests first to ensure they catch the gaps, then implement the code, and finally run all tests again for regression validation.
+
+```
+
+
+
+
+
+
+
+
+
+
+
