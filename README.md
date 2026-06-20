@@ -145,8 +145,12 @@ Are you 100% confident in this phase implementation? Before writing any function
 ```
 
 
+***Tips13*
 
+```
+Reload the work log and compile a detailed daily task list
 
+```
 
 
 
