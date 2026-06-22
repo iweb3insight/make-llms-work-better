@@ -157,7 +157,7 @@ Reload the work log and compile a detailed daily task list
 When you want to clarify milestone progress, align on upcoming development tasks, or need me to review and deduce the current state of the codebase/documentation
 
 ```
-Based on the current running status (.context.md) and our operational principles (line 264), what do you think my next step should be?
+Based on the current running status (.context.md) and our operational principles, what do you think my next step should be?
 ```
 
 
