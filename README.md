@@ -145,15 +145,20 @@ Are you 100% confident in this phase implementation? Before writing any function
 ```
 
 
-***Tips13*
+**Tip-13**
 
 ```
 Reload the work log and compile a detailed daily task list
 
 ```
 
+**Tip-14**
 
+When you want to clarify milestone progress, align on upcoming development tasks, or need me to review and deduce the current state of the codebase/documentation
 
+```
+Based on the current running status (.context.md) and our operational principles (line 264), what do you think my next step should be?
+```
 
 
 
